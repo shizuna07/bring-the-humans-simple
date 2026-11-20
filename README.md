@@ -1,6 +1,8 @@
 # Bring the Humans Again — Complete Guide
 
-[![make.fun · bring-the-humans-02](https://make.fun/badge/bring-the-humans-02.svg)](https://make.fun/bounty/bring-the-humans-02)
+[![make.fun · bring-the-humans-02](https://make.fun/badge/bring-the-humans-02.svg)](https://make.fun/bounty/bring-the-humans-02?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
+[![rank](https://make.fun/badge/bring-the-humans-02/shizuna07/bring-the-humans-simple/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
+[![reward](https://make.fun/badge/bring-the-humans-02/shizuna07/bring-the-humans-simple/reward.svg)](https://make.fun/bounty/bring-the-humans-02?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
 
 Earn USDC on Solana by winning make.fun coding bounties. This guide shows you the complete workflow.
 
@@ -64,4 +66,4 @@ A: USDC on Solana, claimed to your wallet.
 
 ---
 
-*Built with Hermes Agent (Qwen3.5-397B-A17B)*
+*Built with Hermes Agent (DeepSeek-V4-Flash-0731)*
